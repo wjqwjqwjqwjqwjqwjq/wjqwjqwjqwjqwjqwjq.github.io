@@ -8,9 +8,6 @@
     <loc>http://example.org/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://example.org/tags/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,13 +23,19 @@
     <loc>http://example.org/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/getting-started/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/post/writing-technical-content/</loc>
