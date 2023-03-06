@@ -13,12 +13,11 @@
     </image>
     
     <item>
-      <title>我的论文</title>
-      <link>http://example.org/post/%E6%88%91%E7%9A%84%E8%AE%BA%E6%96%87/</link>
+      <title>Publication</title>
+      <link>http://example.org/post/pulication/</link>
       <pubDate>Mon, 06 Mar 2023 16:28:07 +0800</pubDate>
-      <guid>http://example.org/post/%E6%88%91%E7%9A%84%E8%AE%BA%E6%96%87/</guid>
-      <description>&lt;p&gt;Hello World&lt;/p&gt;
-&lt;p&gt;shengxiade ni ziji mosuo&lt;/p&gt;
+      <guid>http://example.org/post/pulication/</guid>
+      <description>&lt;p&gt;sddssddsdds&lt;/p&gt;
 </description>
     </item>
     
@@ -191,7 +190,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-359427861&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-134685729&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -201,7 +200,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-359427861&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-134685729&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
