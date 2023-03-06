@@ -192,7 +192,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-152698347&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-897614235&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -202,7 +202,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-152698347&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-897614235&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -661,7 +661,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Conference paper</title>
+      <title>Conference Paper</title>
       <link>http://example.org/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>http://example.org/publication/conference-paper/</guid>
