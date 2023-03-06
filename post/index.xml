@@ -18,6 +18,7 @@
       <pubDate>Mon, 06 Mar 2023 16:28:07 +0800</pubDate>
       <guid>http://example.org/post/%E6%88%91%E7%9A%84%E8%AE%BA%E6%96%87/</guid>
       <description>&lt;p&gt;Hello World&lt;/p&gt;
+&lt;p&gt;shengxiade ni ziji mosuo&lt;/p&gt;
 </description>
     </item>
     
@@ -27,7 +28,8 @@
       <pubDate>Mon, 06 Mar 2023 16:22:31 +0800</pubDate>
       <guid>http://example.org/post/chatgpt/</guid>
       <description>&lt;h1 id=&#34;markdown-开头的格&#34;&gt;markdown 开头的格&lt;/h1&gt;
-&lt;p&gt;式参考主题里的文件&lt;/p&gt;
+&lt;p&gt;式参考主题里的文件themes/starter-hugo-academic/content/xxx/index.md 里的格式
+剩下的你在自己慢慢摸索&lt;/p&gt;
 &lt;h1 id=&#34;修改&#34;&gt;修改&lt;/h1&gt;
 &lt;p&gt;直接找到对应的文字放左边搜索框里搜索替换&lt;/p&gt;
 &lt;h1 id=&#34;写文章&#34;&gt;写文章&lt;/h1&gt;
@@ -189,7 +191,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-369418257&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-834192657&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -199,7 +201,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-369418257&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-834192657&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
