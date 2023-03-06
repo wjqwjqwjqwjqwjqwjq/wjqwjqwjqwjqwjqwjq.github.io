@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的个人网站</title>
+    <title>My Blog</title>
     <link>http://example.org/</link>
       <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <description>我的个人网站</description>
+    <description>My Blog</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-CN</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://example.org/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_3.png</url>
-      <title>我的个人网站</title>
+      <title>My Blog</title>
       <link>http://example.org/</link>
     </image>
     
@@ -33,8 +33,7 @@
       <link>http://example.org/post/pulication/</link>
       <pubDate>Mon, 06 Mar 2023 16:28:07 +0800</pubDate>
       <guid>http://example.org/post/pulication/</guid>
-      <description>&lt;p&gt;sddssddsdds&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -193,7 +192,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-783496512&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-129673854&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -203,7 +202,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-783496512&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-129673854&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

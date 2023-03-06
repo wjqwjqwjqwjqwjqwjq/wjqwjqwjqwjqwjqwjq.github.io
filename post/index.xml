@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | 我的个人网站</title>
+    <title>Posts | My Blog</title>
     <link>http://example.org/post/</link>
       <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
@@ -17,8 +17,7 @@
       <link>http://example.org/post/pulication/</link>
       <pubDate>Mon, 06 Mar 2023 16:28:07 +0800</pubDate>
       <guid>http://example.org/post/pulication/</guid>
-      <description>&lt;p&gt;sddssddsdds&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -177,7 +176,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-783496512&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-129673854&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -187,7 +186,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-783496512&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-129673854&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
