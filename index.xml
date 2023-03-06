@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>人工智障chatGPT使用说明</title>
+      <title>Instruction</title>
       <link>http://example.org/post/chatgpt/</link>
       <pubDate>Mon, 06 Mar 2023 16:22:31 +0800</pubDate>
       <guid>http://example.org/post/chatgpt/</guid>
@@ -206,7 +206,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-572649381&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-412765893&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -216,7 +216,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-572649381&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-412765893&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
