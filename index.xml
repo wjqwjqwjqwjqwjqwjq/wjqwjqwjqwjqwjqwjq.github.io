@@ -13,22 +13,6 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://example.org/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://example.org/event/example/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Thanks for being nice even in the face of adversity</title>
       <link>http://example.org/post/pulication/</link>
       <pubDate>Mon, 06 Mar 2023 16:28:07 +0800</pubDate>
@@ -43,6 +27,29 @@
       <pubDate>Mon, 06 Mar 2023 16:22:31 +0800</pubDate>
       <guid>http://example.org/post/chatgpt/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>When the Self-Image Clashes with the Actual Self</title>
+      <link>http://example.org/project/example/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/project/example/</guid>
+      <description>&lt;p&gt;As the lights go out one by one, and people’s loud voices are slowly replaced by melodic snoring, I turn over my diary and pick up a pen to keep a record of my day. My mood and emotions at the moment significantly influence my writing. After spending an enriching day, I lower my head to focus on writing without a pause for fear of losing even a second of any valuable memory. It would seem as if there is an uncontrollable deer, prancing across each row of my diary. Each character, just like my mood, is knocked into the air by this naughty pet. The words and phrases are scribbled over the whole page at liberty without being attached to the lines.&lt;/p&gt;
+&lt;p&gt;Whenever I am overwhelmed by a sense of disappointment, I just sit there blankly, gazing out the window, watching the hours tick by, with my mind replaying the awful moment over and over again. When the wave of sorrow subsides a bit, I plunk the leaden words down on the paper.&lt;/p&gt;
+&lt;p&gt;When I happen to be free, I often turn to the front to read my previous writing. As one “volume” is not sufficient to immerse myself fully into my memories, I take the whole “series” of diaries out from the bottom drawer. I would enjoy crouching in the corner, going through the diaries one by one until my legs are numb.&lt;/p&gt;
+&lt;p&gt;One night, as I was going through my previous writing carefully, an unexpected mark grabbed my attention: there was a page where three lines of text were covered by correction fluid. Nonetheless, no amount of correction fluid could erase my memory. That day, two of my friends got into a verbal fight because of my fault. Then, my cowardice to confess eventually worsened their relationship. The guilt coursed through me when the pieces of memory seeped back into my mind. Unexpectedly, everything was covered by the correction fluid. Nothing had been recorded in the diary. It seems that I was attempting to draw a veil over it. Did that happen by accident? To understand my behavior further, I looked for the clues in my previous diaries.&lt;/p&gt;
+&lt;p&gt;Surprisingly, the tendency to hide my unsatisfied self always exists. The process of how I overcame a challenge step-by-step is seldom recorded in my diary. Only when the problem is solved would I roughly jot down the pain brought by it according to my blurred memories, spending almost 80% of the time writing about how I have managed to overcome it and the happiness afterwards. In other situations, for example, when I screwed up an event, I sometimes even simply put the short description of the event in a “P.S.” section. It was almost as if I had set a bar for myself, and anything that did not live up to my expectations would be covered in flowery decorations on the pages, to cover up all the imperfections. This made me wonder why it is tempting for me to “disguise” my defects when my behavior runs counter to my expectation?&lt;/p&gt;
+&lt;p&gt;In the book, Advances in Experimental Social Psychology, social psychologist Edward Tory Higgins (1989) argues that everyone has three kinds of self - actual self (how a person is like in real life), ideal self (one’s desired state), and ought self (the type of person one should be). As human beings, we naturally tend to compare the actual self to either the ideal self or the ought self. When the internalized and desired standards of ourselves are challenged by our actual behavior or thoughts, the gap creates self-discrepancy, generating a mental discomfort. In order to eliminate the discomfort and continue to feel good about ourselves, we try to rationalize the behavior or escape from the problems.&lt;/p&gt;
+&lt;p&gt;We all have imaginations about what we are supposed to be. Being brought up in a well-educated family, I recognize myself as honest and sincere, which is my ideal self. Lying was not an option for me. However, when I failed to bring the truth up in front of my friends, the ideal self in my mind, the honest person, was swamped by the devil deep inside myself. The inconsistency between my behavior and moral standards had been torturing me. Racking my brain, I failed to think of a way to justify my behavior - I could not explain my behavior by convincing myself that lying is acceptable or I am not an honest person. To avoid being overwhelmed by the guilt, I chose to bury my mistakes by not taking it down in the diary, yet maintain my self-image and regard myself as a decent person. In other words, I self-deceived - I tried to convince myself that “I am still an honest person” despite the fact that I lied. According to Higgens (1989), this phenomenon serves as a buffer for protecting us from negative experiences, but does deceiving myself really help to alleviate my mental discomfort?&lt;/p&gt;
+&lt;p&gt;Cortney Warren, a clinical psychologist, expressed her opinions about self-deception in her TED Talk in 2014. She explained why we deceive ourselves and what self-deception results in. She states that self-deception occurs because “we do not have enough psychological strength to admit the truth and deal with the consequences that will follow.” Though self-deception helps us escape from the miserable reality at the moment, Warren (2014) concludes that it leads to nothing but pain and regret. To illustrate, she stated that we frequently avoid being honest by making choices with harmful consequences, such as using drugs, lying, or choosing “not to change even when we are miserable” (Warren, 2014). Looking back at life with regret is incredibly painful, because we can not change the choices in the past.&lt;/p&gt;
+&lt;p&gt;Warren’s TED Talk brings back my memory. When I was choosing between whether to keep it still in my diary or not, a multitude of questions arose in my mind: What would happen if I admit the truth that I lied? What would my friends think of me? While choosing between deceiving myself and confessing the truth, the consequences of admitting to the lie weighed down heavily on me. Finally, I decided to deceive myself. I tried to erase the event from my diary, but when I was making the decision to cover it up, the event replayed again and again in my mind, which deepened the impression of it. Since the choice to lie can not be changed, whenever I think of the event, the regret still clings onto me.&lt;/p&gt;
+&lt;p&gt;According to Higgens, the reason why I felt compelled to lie was to escape from pain and feel good about myself. However, Warren (2014) claims it is the self-deception that aggravates the pain, because the choices we make to deceive ourselves in the past can not be changed anymore. Though admitting who we are is hard, because we have to confront all of our self-deceptive tendencies and insecurities, Warren says, the most effective way to relieve pain is to stop deceiving ourselves. If we do not want to face regret later, we must choose the harder choice now.&lt;/p&gt;
+&lt;p&gt;Being brave to embrace the actual self is an indispensable lesson in life. Closing my diary, I have realized, for the first time, how much attention I have placed upon feeling good about myself, to the point that I have buried the actual self under a facade of lies. Though I have understood the reason behind the lies, which is to mitigate discomfort and maintain self-image (Higgens, 1989), I have always believed that my diary is a place to disclose the actual self and release my emotional burdens by recording both poor and pleasing things that have happened to me. Maintaining self-image should never overshadow accepting who I am. Next time the idea of erasing my mistakes from the diary pops up in my mind, I will do what Warren (2014) says, “pause” and become an observer about myself. Confront my self-deception and be honest to myself is a lifelong journey, which is what I will try to do from now on in daily life.&lt;/p&gt;
+&lt;p&gt;Word Count: 1345&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Higgens, E. T. (1989). Self-Discrepancy Theory: What Patterns of Self-Beliefs Cause People to Suffer? &lt;em&gt;Advances in Experimental Social Psychology, 22&lt;/em&gt;, 93-136.&lt;/p&gt;
+&lt;p&gt;Warren, C (2014). Honest liars &amp;ndash; the psychology of self-deception [video]. TEDxUNLV, YouTube. &lt;a href=&#34;https://www.youtube.com/watch?v=YpEeSa6zBTE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=YpEeSa6zBTE&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -193,7 +200,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-197456832&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-623519487&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -203,7 +210,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-197456832&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-623519487&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -630,27 +637,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>http://example.org/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://example.org/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An example journal article</title>
       <link>http://example.org/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -677,6 +663,14 @@ $$&lt;/p&gt;
       <link>http://example.org/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/project/external-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/project/external-project/</guid>
       <description></description>
     </item>
     

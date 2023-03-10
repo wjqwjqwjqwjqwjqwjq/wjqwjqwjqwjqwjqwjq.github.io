@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | My Blog</title>
-    <link>http://example.org/project/</link>
-      <atom:link href="http://example.org/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Op-Ed | My Blog</title>
+    <link>http://example.org/tags/op-ed/</link>
+      <atom:link href="http://example.org/tags/op-ed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Op-Ed</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-CN</language><lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://example.org/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_3.png</url>
-      <title>Projects</title>
-      <link>http://example.org/project/</link>
+      <title>Op-Ed</title>
+      <link>http://example.org/tags/op-ed/</link>
     </image>
     
     <item>
@@ -33,14 +33,6 @@
 &lt;p&gt;Higgens, E. T. (1989). Self-Discrepancy Theory: What Patterns of Self-Beliefs Cause People to Suffer? &lt;em&gt;Advances in Experimental Social Psychology, 22&lt;/em&gt;, 93-136.&lt;/p&gt;
 &lt;p&gt;Warren, C (2014). Honest liars &amp;ndash; the psychology of self-deception [video]. TEDxUNLV, YouTube. &lt;a href=&#34;https://www.youtube.com/watch?v=YpEeSa6zBTE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=YpEeSa6zBTE&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/project/external-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
