@@ -29,6 +29,12 @@
     <loc>http://example.org/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://example.org/publication/conference-paper/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/publication/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,9 +62,6 @@
     <loc>http://example.org/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://example.org/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -73,9 +76,6 @@
   </url><url>
     <loc>http://example.org/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/admin/</loc>
   </url><url>
